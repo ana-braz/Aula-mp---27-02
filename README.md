@@ -8,3 +8,5 @@ altera arquivo
 git add<nome do arquivo>
 git commit -m "comentario"
 git push
+
+Aula 06/03
